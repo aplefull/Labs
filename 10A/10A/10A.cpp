@@ -45,8 +45,8 @@ int FindMax(int a[], int beg, int end) {
 		return a[beg - 1];
 	}
 
-	max = FindMax(a, beg, (2 * end + beg) / 3);
-	max2 = FindMax(a,  (2 * end + beg) / 3 + 1, end);
+	max = FindMax(a, beg, (2 * beg + end) / 3);
+	max2 = FindMax(a,  (2 * beg + end) / 3 + 1, end);
 	
 	if (max > max2)
 	{
