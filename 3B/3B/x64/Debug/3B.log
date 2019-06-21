@@ -1,4 +1,0 @@
-﻿  stdafx.cpp
-  3B.cpp
-c:\users\user\desktop\aplefull\vs\лабы\3b\3b\3b.cpp(12): warning C4244: =: преобразование "long double" в "int", возможна потеря данных
-  3B.vcxproj -> C:\Users\User\Desktop\Aplefull\VS\Лабы\3B\x64\Debug\3B.exe
